@@ -16,3 +16,5 @@ print(type(power))
 fun = work % power
 print("fun", fun)
 print(type(fun))
+
+# this is a change
